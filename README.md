@@ -2,7 +2,11 @@
 
 <div>
   <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=zemiles&show_icons=true&theme=transparent" width = "49%" height="130%" />
+</div>
+<div>
   <img alt="algorithms" src="http://mazassumnida.wtf/api/v2/generate_badge?boj={zemiles}" width="42%" height="100%"/>
+</div>
+<div>
   <img alt="langs" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zemiles" width = "49%"/>
 </div>
 
