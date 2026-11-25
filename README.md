@@ -10,6 +10,6 @@ I build backend projects with Java and Spring. I contribute to open source by re
 
 | 프로젝트 | 소개 |
 | --- | --- |
-| [mini-pg](https://github.com/zemiles/mini-pg) | 요청이 재시도될 때 중복 결제를 방지하는 결제 백엔드 |
+| [mini-pg](https://github.com/zemiles/mini-pg) | 온라인 결제를 처리하는 PG 백엔드 구현 |
 | [한자리 (Hanjari)](https://github.com/zemiles/hanjari) | 정기 모임의 선착순 신청, 출석, 노쇼 관리 |
 | [StayFinder](https://github.com/zemiles/stayfinder) | 숙소 검색부터 날짜별 객실 재고 확인과 예약까지 연결하는 서비스 |
