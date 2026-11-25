@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## Personal Projects
+
+- [mini-pg](https://github.com/zemiles/mini-pg) — A payment backend focused on idempotent requests.
+- [한자리 (Hanjari)](https://github.com/zemiles/hanjari) — First-come registration, attendance, and no-show management for recurring meetups.
+- [StayFinder](https://github.com/zemiles/stayfinder) — An accommodation booking backend started during F-Lab mentoring, with tests for room inventory and reservations.
+
 <!--
 **zemiles/zemiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
