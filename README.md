@@ -8,8 +8,6 @@ I build backend projects with Java and Spring. I contribute to open source by re
 
 ## 개인 프로젝트 / Personal Projects
 
-실제 서비스 공개를 목표로 개발 중인 개인 프로젝트입니다.
-
 | 프로젝트 | 소개 |
 | --- | --- |
 | [mini-pg](https://github.com/zemiles/mini-pg) | 요청이 재시도될 때 중복 결제를 방지하는 결제 백엔드 |
