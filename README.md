@@ -8,8 +8,10 @@ I build backend projects with Java and Spring. I contribute to open source by re
 
 ## 개인 프로젝트 / Personal Projects
 
+실제 서비스 공개를 목표로 개발 중인 개인 프로젝트입니다.
+
 | 프로젝트 | 소개 |
 | --- | --- |
-| [mini-pg](https://github.com/zemiles/mini-pg) | 재시도 시 중복 결제를 막는 멱등성 처리 실습 |
+| [mini-pg](https://github.com/zemiles/mini-pg) | 요청이 재시도될 때 중복 결제를 방지하는 결제 백엔드 |
 | [한자리 (Hanjari)](https://github.com/zemiles/hanjari) | 정기 모임의 선착순 신청, 출석, 노쇼 관리 |
-| [StayFinder](https://github.com/zemiles/stayfinder) | F-Lab 멘토링에서 시작한 숙소 예약 프로젝트. 날짜별 객실 재고와 예약 흐름을 다룹니다. |
+| [StayFinder](https://github.com/zemiles/stayfinder) | 숙소 검색부터 날짜별 객실 재고 확인과 예약까지 연결하는 서비스 |
